@@ -1,4 +1,2 @@
 
-SA
-
-AS
+Attendance Management System
